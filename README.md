@@ -1,5 +1,7 @@
-SyliusFlowBundle [![Build status...](https://secure.travis-ci.org/Sylius/SyliusFlowBundle.png?branch=master)](http://travis-ci.org/Sylius/SyliusFlowBundle)
+SyliusFlowBundle [![Build status...](https://secure.travis-ci.org/akovalyov/SyliusFlowBundle.png?branch=master)](http://travis-ci.org/akovalyov/SyliusFlowBundle)
 ================
+
+> *Fork Note*: This fork is only for temp purposes until the Sylius project is compatible with Symfony 3.0. It is not meant to be either maintained or be a contribution. Sorry for that.
 
 Multiple action processes with reusable steps for [**Symfony2**](http://symfony.com) applications.
 Suitable for building checkouts or installations.
